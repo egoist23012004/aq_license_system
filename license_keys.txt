@@ -1,0 +1,5 @@
+abc-123-def
+test-key-999
+premium-key-456
+
+add licens key
