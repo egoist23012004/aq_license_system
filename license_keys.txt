@@ -1,6 +1,6 @@
-abc-123-def
-test-key-999
-premium-key-456
-
-add licens key
-RampageAlly
+{
+    "abc-123-def": "2025-04-25T23:59:59",
+    "test-key-999": "2025-04-25T23:59:59",
+    "premium-key-456": "2025-04-25T23:59:59",
+    "RampageAlly": "2025-04-25T23:59:59"
+}
